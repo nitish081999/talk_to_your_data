@@ -2,3 +2,4 @@ streamlit
 langchain
 bs4
 chroma
+langchain_community
